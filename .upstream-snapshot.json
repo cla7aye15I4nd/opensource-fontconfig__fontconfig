@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "target": "cla7aye15I4nd/opensource-fontconfig__fontconfig",
+  "canonical_upstream": "https://gitlab.freedesktop.org/fontconfig/fontconfig",
+  "source": {
+    "kind": "git",
+    "upstream_url": "https://gitlab.freedesktop.org/fontconfig/fontconfig.git",
+    "branch": "main",
+    "revision": "cbf1db7f1bd01e641968ca0818e05b0819ce6c74"
+  },
+  "publication_review": {
+    "license_files": [
+      "COPYING"
+    ],
+    "notice_files": [
+      "AUTHORS"
+    ],
+    "public_fixture_key_markers": []
+  },
+  "upstream_tree_sha256": "65069e25d65903116932c5982abade2d1fe3628412a26dbe4531c413a06d345d",
+  "tree_sha256": "777df1042c7083357fe57d028b9e2ca2d82387fbc311fc8a84fb10a11845d274"
+}
