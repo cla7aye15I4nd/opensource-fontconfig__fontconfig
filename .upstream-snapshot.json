@@ -6,7 +6,7 @@
     "kind": "git",
     "upstream_url": "https://gitlab.freedesktop.org/fontconfig/fontconfig.git",
     "branch": "main",
-    "revision": "f7e719706f6850eaa9f03dabd59bfcac8f22d5d5"
+    "revision": "548591665a8e0dcf5c49cc34fb59ad34c503fa1a"
   },
   "publication_review": {
     "license_files": [
@@ -17,6 +17,6 @@
     ],
     "public_fixture_key_markers": []
   },
-  "upstream_tree_sha256": "1d3f8ccb53e39473ef599af4b39099d7dc2eb49eeec383d1349b785329b01816",
-  "tree_sha256": "c6f9ba2146a15b2d958e4ce17b3ffde4a1fa796a7d2cabeda611b90816cbd19b"
+  "upstream_tree_sha256": "2938c7f3bf0732f3a9d52608b6fc17119644bd331245a050a9f75b98482ccdf1",
+  "tree_sha256": "911b9af1e66f8a88acc1383ff3a5fb040f86aa9b79fdee4ead15ce303e812398"
 }
